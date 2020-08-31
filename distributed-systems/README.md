@@ -1,0 +1,1 @@
+http://notes.stephenholiday.com/Kafka.pdf
