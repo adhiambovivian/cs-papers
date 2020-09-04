@@ -1,3 +1,5 @@
 # nonro ~research in English
 
-This repository contains links to technical research papers.
+This repository contains software engineering and DS research papers.
+
+- 
