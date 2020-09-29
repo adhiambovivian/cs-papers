@@ -1,6 +1,6 @@
-# S/W research papers
+# Computer Science research papers
 
-This repository contains software engineering and DS research papers.
+This repository contains computer science research papers.
 
 **What does a white paper mean?**
 
