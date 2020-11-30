@@ -3,7 +3,7 @@
 This repository contains computer science research papers.
 
 **What does a white paper mean?**
-A comprehensive and fact-oriented research paper.
+*A comprehensive and fact-oriented research paper.*
 
 **Why a white paper?**
 
